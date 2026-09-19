@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "x10-workload-ledger",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "dimension": "world_candidates",
+      "baseline": 80,
+      "target": 800,
+      "actual": 12,
+      "multiplier": 0.15,
+      "state": "PARTIAL"
+    },
+    {
+      "dimension": "common_atomic_metrics",
+      "baseline": 160,
+      "target": 1600,
+      "actual": 32,
+      "multiplier": 0.2,
+      "state": "PARTIAL"
+    },
+    {
+      "dimension": "core_task_variants",
+      "baseline": 15,
+      "target": 150,
+      "actual": 8,
+      "multiplier": 0.53,
+      "state": "PARTIAL"
+    },
+    {
+      "dimension": "product_decision_cells",
+      "baseline": 40,
+      "target": 400,
+      "actual": 25,
+      "multiplier": 0.625,
+      "state": "PARTIAL"
+    },
+    {
+      "dimension": "task_card_fields",
+      "baseline": 32,
+      "target": 64,
+      "actual": 64,
+      "multiplier": 2,
+      "state": "SCHEMA_READY"
+    },
+    {
+      "dimension": "boundary_cases",
+      "baseline": 1000,
+      "target": 10000,
+      "actual": 0,
+      "multiplier": 0,
+      "state": "NOT_GENERATED"
+    },
+    {
+      "dimension": "bad_samples",
+      "baseline": 10,
+      "target": 100,
+      "actual": 0,
+      "multiplier": 0,
+      "state": "NOT_GENERATED"
+    },
+    {
+      "dimension": "search_saturation_passes",
+      "baseline": 2,
+      "target": 20,
+      "actual": 5,
+      "multiplier": 2.5,
+      "state": "PARTIAL"
+    }
+  ],
+  "counts": {
+    "dimensions": 8
+  },
+  "unknowns": [],
+  "warnings": [
+    "하나라도 10배 미달이므로 X10_COMPLETE 금지"
+  ]
+}

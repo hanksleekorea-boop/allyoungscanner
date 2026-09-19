@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "best-practice-synthesis",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "id": "BP-001",
+      "title": "권리·출처 상태를 상품 카드에 표시",
+      "source": "idealo/Google의 판매자·출처 투명성",
+      "gaps": "GAP-001,013",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-002",
+      "title": "검색 동의어·바코드·사진 입력",
+      "source": "Yuka/OnSkin",
+      "gaps": "GAP-003",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-003",
+      "title": "가격 이력·알림과 배송 포함 총액",
+      "source": "idealo/PriceSpy",
+      "gaps": "GAP-004,014",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-004",
+      "title": "성분·루틴·대안 비교",
+      "source": "SkinSort/INCIDecoder",
+      "gaps": "GAP-004,013",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-005",
+      "title": "필터·정렬·빈 상태 복구",
+      "source": "Google/idealo",
+      "gaps": "GAP-002,003",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-006",
+      "title": "계정 없이 핵심, 선택적 동기화",
+      "source": "현재 로컬 기본 + 상위 서비스",
+      "gaps": "GAP-006",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-007",
+      "title": "운영자 헬프센터·상태 공지",
+      "source": "SkinSAFE/Yuka",
+      "gaps": "GAP-007,017",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-008",
+      "title": "지역·통화·법역 명시",
+      "source": "Google/idealo",
+      "gaps": "GAP-020",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-009",
+      "title": "광고·제휴와 순위 분리",
+      "source": "Yuka 독립성 원칙",
+      "gaps": "GAP-012",
+      "adoption": "adapt-not-copy"
+    },
+    {
+      "id": "BP-010",
+      "title": "checksum 기반 release/rollback",
+      "source": "Cloudflare 운영 원칙",
+      "gaps": "GAP-015,025",
+      "adoption": "adapt-not-copy"
+    }
+  ],
+  "counts": {
+    "practices": 10
+  },
+  "unknowns": [],
+  "warnings": []
+}

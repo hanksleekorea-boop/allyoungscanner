@@ -1,0 +1,3633 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V33-20260909T074132Z",
+  "generated_at_utc": "2026-09-09T07:41:32.928Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "benchmark-matrix",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "올영스캐너",
+      "score": 68,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "올영스캐너",
+      "score": 68,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "올영스캐너",
+      "score": 68,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "올영스캐너",
+      "score": 68,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "올영스캐너",
+      "score": 68,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "올영스캐너",
+      "score": 68,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "올영스캐너",
+      "score": 68,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "올영스캐너",
+      "score": 68,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "올영스캐너",
+      "score": 52,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "올영스캐너",
+      "score": 52,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "올영스캐너",
+      "score": 52,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "올영스캐너",
+      "score": 52,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "올영스캐너",
+      "score": 72,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "올영스캐너",
+      "score": 72,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "올영스캐너",
+      "score": 72,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "올영스캐너",
+      "score": 72,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "올영스캐너",
+      "score": 72,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "올영스캐너",
+      "score": 72,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "올영스캐너",
+      "score": 28,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "올영스캐너",
+      "score": 28,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "올영스캐너",
+      "score": 28,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "올영스캐너",
+      "score": 28,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "올영스캐너",
+      "score": 46,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "올영스캐너",
+      "score": 46,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "올영스캐너",
+      "score": 46,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "올영스캐너",
+      "score": 46,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "올영스캐너",
+      "score": 75,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "올영스캐너",
+      "score": 75,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "올영스캐너",
+      "score": 75,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "올영스캐너",
+      "score": 75,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "올영스캐너",
+      "score": 38,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "올영스캐너",
+      "score": 38,
+      "evidence_level": "B",
+      "status": "PUBLIC_OR_LOCAL",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-002"
+      ]
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "Google Shopping",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "Google Shopping",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "Google Shopping",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "Google Shopping",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "Google Shopping",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "Google Shopping",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "Google Shopping",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "Google Shopping",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "Google Shopping",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "Google Shopping",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "Google Shopping",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "Google Shopping",
+      "score": 75,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "Google Shopping",
+      "score": 75,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "Google Shopping",
+      "score": 75,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "Google Shopping",
+      "score": 75,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "Google Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "Google Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "Google Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "Google Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "Google Shopping",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "Google Shopping",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "idealo",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "idealo",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "idealo",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "idealo",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "idealo",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "idealo",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "idealo",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "idealo",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "idealo",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "idealo",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "idealo",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "idealo",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "idealo",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "idealo",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "idealo",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "idealo",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "idealo",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "idealo",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "idealo",
+      "score": 95,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "idealo",
+      "score": 95,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "idealo",
+      "score": 95,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "idealo",
+      "score": 95,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "idealo",
+      "score": 78,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "idealo",
+      "score": 78,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "idealo",
+      "score": 78,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "idealo",
+      "score": 78,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "idealo",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "idealo",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "idealo",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "idealo",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "idealo",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "idealo",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "PriceSpy",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "PriceSpy",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "PriceSpy",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "PriceSpy",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "PriceSpy",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "PriceSpy",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "PriceSpy",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "PriceSpy",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "PriceSpy",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "PriceSpy",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "PriceSpy",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "PriceSpy",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "PriceSpy",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "PriceSpy",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "PriceSpy",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "PriceSpy",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "PriceSpy",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "PriceSpy",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "PriceSpy",
+      "score": 91,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "PriceSpy",
+      "score": 91,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "PriceSpy",
+      "score": 91,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "PriceSpy",
+      "score": 91,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "PriceSpy",
+      "score": 76,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "PriceSpy",
+      "score": 76,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "PriceSpy",
+      "score": 76,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "PriceSpy",
+      "score": 76,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "PriceSpy",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "PriceSpy",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "PriceSpy",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "PriceSpy",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "PriceSpy",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "PriceSpy",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "Klarna Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "Klarna Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "Klarna Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "Klarna Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "Klarna Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "Klarna Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "Klarna Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "Klarna Shopping",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "Klarna Shopping",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "Klarna Shopping",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "Klarna Shopping",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "Klarna Shopping",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "Klarna Shopping",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "Klarna Shopping",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "Klarna Shopping",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "Klarna Shopping",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "Klarna Shopping",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "Klarna Shopping",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "Klarna Shopping",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "Klarna Shopping",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "Klarna Shopping",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "Klarna Shopping",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "Klarna Shopping",
+      "score": 70,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "Klarna Shopping",
+      "score": 70,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "Klarna Shopping",
+      "score": 70,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "Klarna Shopping",
+      "score": 70,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "Klarna Shopping",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "Klarna Shopping",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "Klarna Shopping",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "Klarna Shopping",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "Klarna Shopping",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "Klarna Shopping",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "Sephora",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "Sephora",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "Sephora",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "Sephora",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "Sephora",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "Sephora",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "Sephora",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "Sephora",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "Sephora",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "Sephora",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "Sephora",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "Sephora",
+      "score": 93,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "Sephora",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "Sephora",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "Sephora",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "Sephora",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "Sephora",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "Sephora",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "Sephora",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "Sephora",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "Sephora",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "Sephora",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "Sephora",
+      "score": 74,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "Sephora",
+      "score": 74,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "Sephora",
+      "score": 74,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "Sephora",
+      "score": 74,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "Sephora",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "Sephora",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "Sephora",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "Sephora",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "Sephora",
+      "score": 87,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "Sephora",
+      "score": 87,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "Ulta Beauty",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "Ulta Beauty",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "Ulta Beauty",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "Ulta Beauty",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "Ulta Beauty",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "Ulta Beauty",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "Ulta Beauty",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "Ulta Beauty",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "Ulta Beauty",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "Ulta Beauty",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "Ulta Beauty",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "Ulta Beauty",
+      "score": 92,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "Ulta Beauty",
+      "score": 87,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "Ulta Beauty",
+      "score": 87,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "Ulta Beauty",
+      "score": 87,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "Ulta Beauty",
+      "score": 87,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "Ulta Beauty",
+      "score": 87,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "Ulta Beauty",
+      "score": 87,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "Ulta Beauty",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "Ulta Beauty",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "Ulta Beauty",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "Ulta Beauty",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "Ulta Beauty",
+      "score": 73,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "Ulta Beauty",
+      "score": 73,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "Ulta Beauty",
+      "score": 73,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "Ulta Beauty",
+      "score": 73,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "Ulta Beauty",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "Ulta Beauty",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "Ulta Beauty",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "Ulta Beauty",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "Ulta Beauty",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "Ulta Beauty",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "Yuka",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "Yuka",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "Yuka",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "Yuka",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "Yuka",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "Yuka",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "Yuka",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "Yuka",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "Yuka",
+      "score": 91,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "Yuka",
+      "score": 91,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "Yuka",
+      "score": 91,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "Yuka",
+      "score": 91,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "Yuka",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "Yuka",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "Yuka",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "Yuka",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "Yuka",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "Yuka",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "Yuka",
+      "score": 70,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "Yuka",
+      "score": 70,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "Yuka",
+      "score": 70,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "Yuka",
+      "score": 70,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "Yuka",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "Yuka",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "Yuka",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "Yuka",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "Yuka",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "Yuka",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "Yuka",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "Yuka",
+      "score": 83,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "Yuka",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "Yuka",
+      "score": 86,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "OnSkin",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "OnSkin",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "OnSkin",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "OnSkin",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "OnSkin",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "OnSkin",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "OnSkin",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "OnSkin",
+      "score": 89,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "OnSkin",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "OnSkin",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "OnSkin",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "OnSkin",
+      "score": 90,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "OnSkin",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "OnSkin",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "OnSkin",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "OnSkin",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "OnSkin",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "OnSkin",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "OnSkin",
+      "score": 72,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "OnSkin",
+      "score": 72,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "OnSkin",
+      "score": 72,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "OnSkin",
+      "score": 72,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "OnSkin",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "OnSkin",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "OnSkin",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "OnSkin",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "OnSkin",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "OnSkin",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "OnSkin",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "OnSkin",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "OnSkin",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "OnSkin",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "SkinSort",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "SkinSort",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "SkinSort",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "SkinSort",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "SkinSort",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "SkinSort",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "SkinSort",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "SkinSort",
+      "score": 88,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "SkinSort",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "SkinSort",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "SkinSort",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "SkinSort",
+      "score": 85,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "SkinSort",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "SkinSort",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "SkinSort",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "SkinSort",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "SkinSort",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "SkinSort",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "SkinSort",
+      "score": 68,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "SkinSort",
+      "score": 68,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "SkinSort",
+      "score": 68,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "SkinSort",
+      "score": 68,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "SkinSort",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "SkinSort",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "SkinSort",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "SkinSort",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "SkinSort",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "SkinSort",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "SkinSort",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "SkinSort",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "SkinSort",
+      "score": 78,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "SkinSort",
+      "score": 78,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M01",
+      "metric": "가치 제안 명확성",
+      "family": "product_ux",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M02",
+      "metric": "첫 가치까지 단계",
+      "family": "product_ux",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M03",
+      "metric": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M04",
+      "metric": "결과 이해 가능성",
+      "family": "product_ux",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M05",
+      "metric": "개인화 수준",
+      "family": "product_ux",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M06",
+      "metric": "비교·결정 지원",
+      "family": "product_ux",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M07",
+      "metric": "일관성",
+      "family": "product_ux",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M08",
+      "metric": "차별성",
+      "family": "product_ux",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M09",
+      "metric": "모바일 앱 제공",
+      "family": "mobile_app",
+      "service": "SkinSAFE",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M10",
+      "metric": "설치·온보딩",
+      "family": "mobile_app",
+      "service": "SkinSAFE",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M11",
+      "metric": "기기 간 연속성",
+      "family": "mobile_app",
+      "service": "SkinSAFE",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M12",
+      "metric": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "service": "SkinSAFE",
+      "score": 80,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M13",
+      "metric": "정보 구조",
+      "family": "web_accessibility",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M14",
+      "metric": "반응형·성능",
+      "family": "web_accessibility",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M15",
+      "metric": "검색·공유",
+      "family": "web_accessibility",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M16",
+      "metric": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M17",
+      "metric": "확대·색 대비",
+      "family": "web_accessibility",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M18",
+      "metric": "다국어",
+      "family": "web_accessibility",
+      "service": "SkinSAFE",
+      "score": 82,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M19",
+      "metric": "가격 표시 투명성",
+      "family": "price_trust",
+      "service": "SkinSAFE",
+      "score": 65,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M20",
+      "metric": "총액·배송",
+      "family": "price_trust",
+      "service": "SkinSAFE",
+      "score": 65,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M21",
+      "metric": "가격 이력·알림",
+      "family": "price_trust",
+      "service": "SkinSAFE",
+      "score": 65,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M22",
+      "metric": "취소·환불",
+      "family": "price_trust",
+      "service": "SkinSAFE",
+      "score": 65,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M23",
+      "metric": "법인·약관",
+      "family": "privacy_legal",
+      "service": "SkinSAFE",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M24",
+      "metric": "수집·처리자",
+      "family": "privacy_legal",
+      "service": "SkinSAFE",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M25",
+      "metric": "계정 삭제",
+      "family": "privacy_legal",
+      "service": "SkinSAFE",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M26",
+      "metric": "쿠키·지역법",
+      "family": "privacy_legal",
+      "service": "SkinSAFE",
+      "score": 84,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M27",
+      "metric": "HTTPS·헤더",
+      "family": "security_domain",
+      "service": "SkinSAFE",
+      "score": 79,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M28",
+      "metric": "보안 신고",
+      "family": "security_domain",
+      "service": "SkinSAFE",
+      "score": 79,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M29",
+      "metric": "DNS·이메일",
+      "family": "security_domain",
+      "service": "SkinSAFE",
+      "score": 79,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M30",
+      "metric": "사고 투명성",
+      "family": "security_domain",
+      "service": "SkinSAFE",
+      "score": 79,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M31",
+      "metric": "지원 경로",
+      "family": "support_reputation",
+      "service": "SkinSAFE",
+      "score": 77,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    },
+    {
+      "metric_id": "M32",
+      "metric": "평판·운영 공지",
+      "family": "support_reputation",
+      "service": "SkinSAFE",
+      "score": 77,
+      "evidence_level": "A/C",
+      "status": "PUBLIC_CLAIM",
+      "source_ids": []
+    }
+  ],
+  "counts": {
+    "rows": 352,
+    "metrics": 32,
+    "services": 11
+  },
+  "unknowns": [],
+  "warnings": []
+}

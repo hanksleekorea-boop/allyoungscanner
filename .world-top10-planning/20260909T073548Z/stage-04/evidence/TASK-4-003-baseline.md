@@ -1,0 +1,5 @@
+# TASK-4-003 증거 슬롯
+
+실행 시 저장할 경로: evidence/TASK-4-003/
+현재 판정: BLOCKED_EXTERNAL
+외부 차단은 실제 완료로 표시하지 않는다.

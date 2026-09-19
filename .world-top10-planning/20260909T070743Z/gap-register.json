@@ -1,0 +1,292 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "gap-register",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "id": "GAP-001",
+      "title": "상품 상업 이용 권리·승인 원장",
+      "state": "BLOCKED_EXTERNAL",
+      "priority": 100,
+      "fix": "실상품 권리·공급자 계약",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-002",
+      "title": "기획·공개판·Worker 기준선 불일치",
+      "state": "PARTIAL",
+      "priority": 92,
+      "fix": "단일 release manifest",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-003",
+      "title": "실제 바코드 스캔·미등록 복구",
+      "state": "UNVERIFIED",
+      "priority": 95,
+      "fix": "Android 카메라 시험",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-004",
+      "title": "가격·재고·배송 신선도·정확 SKU",
+      "state": "MISSING",
+      "priority": 100,
+      "fix": "판매처 API/승인",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-005",
+      "title": "내보내기·복원·기기 전환 사용자 검증",
+      "state": "PARTIAL",
+      "priority": 77,
+      "fix": "사용자 왕복 5건",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-006",
+      "title": "Google OAuth·계정 삭제 왕복",
+      "state": "BLOCKED_EXTERNAL",
+      "priority": 100,
+      "fix": "WeSaver secrets",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-007",
+      "title": "운영자 신원·비공개 지원·법률 문서",
+      "state": "UNKNOWN",
+      "priority": 93,
+      "fix": "사업자 결정",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-008",
+      "title": "Android/iOS 실기기 행렬",
+      "state": "NOT_RUN",
+      "priority": 92,
+      "fix": "기기 3종",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-009",
+      "title": "스크린리더·실제 접근성 증거",
+      "state": "UNVERIFIED",
+      "priority": 85,
+      "fix": "보조기술 시험",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-010",
+      "title": "실사용자 5명 과업 성공",
+      "state": "NOT_RUN",
+      "priority": 95,
+      "fix": "사람 모집",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-011",
+      "title": "공개 성능·장애 관측",
+      "state": "PARTIAL",
+      "priority": 80,
+      "fix": "RUM/오류 경보",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-012",
+      "title": "광고·affiliate 승인·고지",
+      "state": "UNKNOWN",
+      "priority": 81,
+      "fix": "계약·CMP",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-013",
+      "title": "공식 판매·성분 연결",
+      "state": "MISSING",
+      "priority": 83,
+      "fix": "공급자/출처 계약",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-014",
+      "title": "상품별 신선도 자동 갱신",
+      "state": "PARTIAL",
+      "priority": 87,
+      "fix": "scheduled refresh",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-015",
+      "title": "원본-공개-R2 동기화 자동화",
+      "state": "PARTIAL",
+      "priority": 92,
+      "fix": "checksum pipeline",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-016",
+      "title": "공급망·secret rotation·CSP",
+      "state": "PARTIAL",
+      "priority": 85,
+      "fix": "운영 정책",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-017",
+      "title": "장애·정정·회수 훈련",
+      "state": "NOT_RUN",
+      "priority": 85,
+      "fix": "복구 drill",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-018",
+      "title": "대량 카탈로그 성능",
+      "state": "UNVERIFIED",
+      "priority": 75,
+      "fix": "50k SKU 부하",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-019",
+      "title": "후기·랭킹 조작 방어",
+      "state": "NOT_APPLICABLE_NOW",
+      "priority": 88,
+      "fix": "후기 기능 개통 전",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-020",
+      "title": "다국가·언어·법역 범위",
+      "state": "PARTIAL",
+      "priority": 85,
+      "fix": "국가별 scope",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-021",
+      "title": "Cloudflare production secret 주입",
+      "state": "BLOCKED_EXTERNAL",
+      "priority": 100,
+      "fix": "운영 권한",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-022",
+      "title": "읽기 API 외 쓰기 API 이주",
+      "state": "MISSING",
+      "priority": 98,
+      "fix": "D1 계약",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-023",
+      "title": "정책 페이지의 OAuth 문구 정합성",
+      "state": "PARTIAL",
+      "priority": 70,
+      "fix": "문구 검토",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-024",
+      "title": "QR 대표 주소",
+      "state": "RESOLVED",
+      "priority": 20,
+      "fix": "2026-09-09 QR 재생성",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    },
+    {
+      "id": "GAP-025",
+      "title": "공개 대시보드·진척 데이터 최신성",
+      "state": "PARTIAL",
+      "priority": 68,
+      "fix": "release sync",
+      "source_ids": [
+        "SRC-OWN-001",
+        "SRC-OWN-006"
+      ]
+    }
+  ],
+  "counts": {
+    "gaps": 25,
+    "blocked": 3,
+    "resolved": 1
+  },
+  "unknowns": [],
+  "warnings": []
+}

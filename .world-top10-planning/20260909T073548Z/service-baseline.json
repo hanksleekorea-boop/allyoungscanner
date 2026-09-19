@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V33-20260909T074132Z",
+  "generated_at_utc": "2026-09-09T07:41:32.928Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "service-baseline",
+  "source_artifact_ids": [
+    "SRC-OWN-001",
+    "SRC-OWN-002",
+    "SRC-OWN-003",
+    "SRC-OWN-004",
+    "SRC-OWN-005",
+    "SRC-OWN-006",
+    "SRC-OWN-007"
+  ],
+  "records": [
+    {
+      "service_name": "올영스캐너 (All-Young Scanner)",
+      "release": "2026-09-05-service-v0.40-shopping-trust",
+      "checked_at_utc": "2026-09-09T07:16:53.430Z",
+      "path": "D:/Desktop/챗지피티프로젝트들/올영스캐너",
+      "value_proposition": "화장품을 검색·비교하고 여러 판매처에서 확인하도록 돕는 독립 뷰티 쇼핑 탐색 서비스",
+      "primary_users": [
+        "매장에서 빠르게 제품을 확인하는 소비자",
+        "글로벌 K-뷰티 탐색자",
+        "성분·용량·판매처를 비교하는 사용자"
+      ],
+      "buyer": "미확인(현재 결제·구독 없음)",
+      "non_users": [
+        "의료 진단을 원하는 사람",
+        "올리브영 공식 고객지원이 필요한 구매자"
+      ],
+      "core_tasks": [
+        "상품·브랜드·GTIN 검색",
+        "필터·정렬",
+        "최대 3개 비교",
+        "찜·로컬 백업",
+        "상품·판매처 확인",
+        "가이드 탐색",
+        "PWA 설치/오프라인 확인",
+        "Google 계정 클라우드 백업(설정 대기)"
+      ],
+      "journey": "유입 → 검색/탐색 → 상세·근거 확인 → 비교·찜 → 판매처 이동 → 백업/복원 → 지원·정정 → 삭제",
+      "platform": {
+        "pc_web": "PUBLIC_VERIFIED Cloudflare",
+        "mobile_web": "PUBLIC_VERIFIED Cloudflare /m/",
+        "pwa": "IMPLEMENTED_UNVERIFIED 설치·오프라인 실기기 미실시",
+        "native_app": "UNKNOWN"
+      },
+      "monetization": {
+        "current": "무료·일반 판매처 링크",
+        "planned": "승인된 affiliate/광고",
+        "verified": false
+      },
+      "technology": "Cloudflare Worker + R2 STATIC + D1 auth schema; GitHub Pages rollback; browser localStorage; Google OIDC code present",
+      "current_evidence": {
+        "release_files": 234,
+        "release_bytes": 10585734,
+        "products": 1994,
+        "guides": 16,
+        "target_http": {
+          "root": 200,
+          "mobile": 200,
+          "dashboard": 200,
+          "catalog_api": 200,
+          "store_links_api": 200,
+          "guides_api": 200
+        },
+        "auth_http": 503
+      },
+      "statuses": {
+        "code": "IMPLEMENTED_VERIFIED",
+        "cloudflare": "PUBLIC_VERIFIED",
+        "oauth": "IMPLEMENTED_UNVERIFIED",
+        "android": "UNKNOWN",
+        "legal_operator": "UNKNOWN"
+      },
+      "unknowns": [
+        "WeSaver Client ID/Secret/OAUTH_STATE_SECRET",
+        "실제 OAuth callback·save/load/delete",
+        "실제 Android/iOS 설치·오프라인",
+        "상품 권리·승인 판매처·광고 승인",
+        "운영자 법적 신원·실사용자 성과"
+      ]
+    }
+  ],
+  "counts": {
+    "products": 1994,
+    "guides": 16,
+    "release_files": 234
+  },
+  "unknowns": [
+    "WeSaver Client ID/Secret/OAUTH_STATE_SECRET",
+    "실제 OAuth callback·save/load/delete",
+    "실제 Android/iOS 설치·오프라인",
+    "상품 권리·승인 판매처·광고 승인",
+    "운영자 법적 신원·실사용자 성과"
+  ],
+  "warnings": []
+}

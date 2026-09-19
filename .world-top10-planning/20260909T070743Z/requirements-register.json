@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "requirements-register",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "id": "REQ-001",
+      "title": "상품 상업 이용 권리·승인 원장",
+      "priority": "P0",
+      "acceptance": "실상품 권리·공급자 계약가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-001"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-002",
+      "title": "기획·공개판·Worker 기준선 불일치",
+      "priority": "P0",
+      "acceptance": "단일 release manifest가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-002"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-003",
+      "title": "실제 바코드 스캔·미등록 복구",
+      "priority": "P0",
+      "acceptance": "Android 카메라 시험가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-003"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-004",
+      "title": "가격·재고·배송 신선도·정확 SKU",
+      "priority": "P0",
+      "acceptance": "판매처 API/승인가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-004"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-005",
+      "title": "내보내기·복원·기기 전환 사용자 검증",
+      "priority": "P0",
+      "acceptance": "사용자 왕복 5건가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-005"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-006",
+      "title": "Google OAuth·계정 삭제 왕복",
+      "priority": "P0",
+      "acceptance": "WeSaver secrets가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-006"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-007",
+      "title": "운영자 신원·비공개 지원·법률 문서",
+      "priority": "P0",
+      "acceptance": "사업자 결정가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-007"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-008",
+      "title": "Android/iOS 실기기 행렬",
+      "priority": "P0",
+      "acceptance": "기기 3종가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-008"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-009",
+      "title": "스크린리더·실제 접근성 증거",
+      "priority": "P1",
+      "acceptance": "보조기술 시험가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-009"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-010",
+      "title": "실사용자 5명 과업 성공",
+      "priority": "P1",
+      "acceptance": "사람 모집가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-010"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-011",
+      "title": "공개 성능·장애 관측",
+      "priority": "P1",
+      "acceptance": "RUM/오류 경보가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-011"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-012",
+      "title": "광고·affiliate 승인·고지",
+      "priority": "P1",
+      "acceptance": "계약·CMP가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-012"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-013",
+      "title": "공식 판매·성분 연결",
+      "priority": "P1",
+      "acceptance": "공급자/출처 계약가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-013"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-014",
+      "title": "상품별 신선도 자동 갱신",
+      "priority": "P1",
+      "acceptance": "scheduled refresh가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-014"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-015",
+      "title": "원본-공개-R2 동기화 자동화",
+      "priority": "P1",
+      "acceptance": "checksum pipeline가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-015"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-016",
+      "title": "공급망·secret rotation·CSP",
+      "priority": "P1",
+      "acceptance": "운영 정책가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-016"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-017",
+      "title": "장애·정정·회수 훈련",
+      "priority": "P2",
+      "acceptance": "복구 drill가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-017"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-018",
+      "title": "대량 카탈로그 성능",
+      "priority": "P2",
+      "acceptance": "50k SKU 부하가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-018"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-019",
+      "title": "후기·랭킹 조작 방어",
+      "priority": "P2",
+      "acceptance": "후기 기능 개통 전가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-019"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-020",
+      "title": "다국가·언어·법역 범위",
+      "priority": "P2",
+      "acceptance": "국가별 scope가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-020"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-021",
+      "title": "Cloudflare production secret 주입",
+      "priority": "P2",
+      "acceptance": "운영 권한가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-021"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-022",
+      "title": "읽기 API 외 쓰기 API 이주",
+      "priority": "P2",
+      "acceptance": "D1 계약가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-022"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-023",
+      "title": "정책 페이지의 OAuth 문구 정합성",
+      "priority": "P2",
+      "acceptance": "문구 검토가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-023"
+      ],
+      "status": "PLANNED"
+    },
+    {
+      "id": "REQ-024",
+      "title": "QR 대표 주소",
+      "priority": "P2",
+      "acceptance": "2026-09-09 QR 재생성가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-024"
+      ],
+      "status": "IMPLEMENTED_VERIFIED"
+    },
+    {
+      "id": "REQ-025",
+      "title": "공개 대시보드·진척 데이터 최신성",
+      "priority": "P2",
+      "acceptance": "release sync가 증거 ID와 함께 재현됨",
+      "source_gap_ids": [
+        "GAP-025"
+      ],
+      "status": "PLANNED"
+    }
+  ],
+  "counts": {
+    "requirements": 25,
+    "p0": 8
+  },
+  "unknowns": [],
+  "warnings": []
+}

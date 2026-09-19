@@ -1,0 +1,59 @@
+{
+  "schema_version": "3.3",
+  "run_id": "ITEL-V33-20260909T074132Z",
+  "generated_at_utc": "2026-09-09T07:41:32.928Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "integrated-run-control",
+  "source_artifact_ids": [
+    "v3.2-run-manifest"
+  ],
+  "records": [],
+  "counts": {
+    "stages": 5,
+    "task_cards": 15,
+    "fields_per_card": 96,
+    "total_tests": 264
+  },
+  "paste_and_run": true,
+  "auto_start_without_confirmation": true,
+  "mode": "END_TO_END_COMPREHENSIVE",
+  "active_engines": [
+    "A",
+    "B",
+    "C"
+  ],
+  "target_urls": [
+    "https://allyoungscanner.scanners.cc/",
+    "https://allyoungscanner.scanners.cc/m/",
+    "https://allyoungscanner.scanners.cc/dashboard.html"
+  ],
+  "mutations": {
+    "code": 0,
+    "settings": 0,
+    "git": 0,
+    "public_deploy": 0
+  },
+  "statuses": {
+    "G0": "PASS",
+    "G1": "PASS",
+    "G2": "PARTIAL",
+    "G3": "TOP10_INCOMPLETE",
+    "G4": "PARTIAL",
+    "G5": "PASS_WITH_LIMITS",
+    "G6": "PASS_WITH_LIMITS",
+    "G7": "PASS_WITH_LIMITS",
+    "G8": "PASS",
+    "overall": "PARTIAL_EXTERNAL_BLOCK"
+  },
+  "unknowns": [
+    "WeSaver OAuth secrets/callback/D1",
+    "legal owner and ad/affiliate approvals",
+    "real Android evidence",
+    "full X10 workload"
+  ],
+  "warnings": [
+    "No secrets printed",
+    "B drive untouched",
+    "v3.2 evidence reused; X10 partial"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": "3.3",
+  "run_id": "ITEL-V33-20260909T074132Z",
+  "generated_at_utc": "2026-09-09T07:41:32.928Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "five-stage-detail-ledger",
+  "source_artifact_ids": [
+    "development-task-cards.json",
+    "v3.2/x10-workload-ledger.json"
+  ],
+  "records": [
+    {
+      "stage_id": "STAGE-1-BASELINE",
+      "status": "PARTIAL_EXTERNAL_BLOCK",
+      "card_count": 3,
+      "fields_per_card": 96,
+      "micro_steps_per_card": 12,
+      "test_count": 48,
+      "ready_card_count": 2,
+      "exit_condition": "정본·범위·백업·실행·검사 기준선이 재현 가능"
+    },
+    {
+      "stage_id": "STAGE-2-FOUNDATION",
+      "status": "BLOCKED_EXTERNAL",
+      "card_count": 3,
+      "fields_per_card": 96,
+      "micro_steps_per_card": 12,
+      "test_count": 48,
+      "ready_card_count": 1,
+      "exit_condition": "후속 기능 의존 계약·구조·공통부가 시험 가능"
+    },
+    {
+      "stage_id": "STAGE-3-CORE",
+      "status": "BLOCKED_PREREQUISITE",
+      "card_count": 3,
+      "fields_per_card": 96,
+      "micro_steps_per_card": 12,
+      "test_count": 60,
+      "ready_card_count": 0,
+      "exit_condition": "정상·빈·로딩·오류·복구 흐름이 인수 기준 통과"
+    },
+    {
+      "stage_id": "STAGE-4-QUALITY",
+      "status": "BLOCKED_PREREQUISITE",
+      "card_count": 3,
+      "fields_per_card": 96,
+      "micro_steps_per_card": 12,
+      "test_count": 60,
+      "ready_card_count": 0,
+      "exit_condition": "모바일·PC·권한·자료·장애·관측 품질 조건 통과"
+    },
+    {
+      "stage_id": "STAGE-5-RELEASE",
+      "status": "BLOCKED_EXTERNAL",
+      "card_count": 3,
+      "fields_per_card": 96,
+      "micro_steps_per_card": 12,
+      "test_count": 48,
+      "ready_card_count": 0,
+      "exit_condition": "출시 통과표·복구 시험·운영 문서와 차단 항목 확정"
+    }
+  ],
+  "counts": {
+    "stages": 5,
+    "cards": 15,
+    "fields_per_card": 96,
+    "total_tests": 264,
+    "requirements_target": "100% traceability",
+    "actual_status": "PARTIAL_EXTERNAL_BLOCK"
+  },
+  "unknowns": [
+    "external credentials",
+    "legal identity",
+    "real-device evidence"
+  ],
+  "warnings": [
+    "X10 scope is partial; no false 100% claim"
+  ]
+}

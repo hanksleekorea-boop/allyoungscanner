@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "solution-options-abc",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "option": "A",
+      "name": "Trust-first catalog",
+      "scope": "권리·가격·판매처 검증을 먼저",
+      "effect": "구매 신뢰 최대",
+      "cost": "중",
+      "risk": "외부 공급자 의존",
+      "recommended": true
+    },
+    {
+      "option": "B",
+      "name": "Scan-first mobile",
+      "scope": "Android 카메라·오프라인·빠른 결과",
+      "effect": "매장 전환 최대",
+      "cost": "중",
+      "risk": "기기·권한 편차",
+      "recommended": true
+    },
+    {
+      "option": "C",
+      "name": "Personal cloud continuity",
+      "scope": "WeSaver OAuth·D1 스냅샷",
+      "effect": "재방문·기기 전환",
+      "cost": "중",
+      "risk": "OAuth 권한·비밀값",
+      "recommended": true
+    }
+  ],
+  "counts": {
+    "records": 3
+  },
+  "unknowns": [],
+  "warnings": []
+}

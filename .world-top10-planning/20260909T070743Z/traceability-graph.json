@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "traceability-graph",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "source": "SRC-OWN-001",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-001",
+      "metric": "M01",
+      "gap": "GAP-001",
+      "best_practice": "BP-001",
+      "improvement": "IMP-0001",
+      "requirement": "REQ-001",
+      "task": "TASK-1-001",
+      "test": "TEST-001",
+      "evidence": "EVD-001"
+    },
+    {
+      "source": "SRC-OWN-002",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-002",
+      "metric": "M02",
+      "gap": "GAP-002",
+      "best_practice": "BP-002",
+      "improvement": "IMP-0002",
+      "requirement": "REQ-002",
+      "task": "TASK-1-002",
+      "test": "TEST-002",
+      "evidence": "EVD-002"
+    },
+    {
+      "source": "SRC-OWN-003",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-003",
+      "metric": "M03",
+      "gap": "GAP-003",
+      "best_practice": "BP-003",
+      "improvement": "IMP-0003",
+      "requirement": "REQ-003",
+      "task": "TASK-1-003",
+      "test": "TEST-003",
+      "evidence": "EVD-003"
+    },
+    {
+      "source": "SRC-OWN-004",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-004",
+      "metric": "M04",
+      "gap": "GAP-004",
+      "best_practice": "BP-004",
+      "improvement": "IMP-0004",
+      "requirement": "REQ-004",
+      "task": "TASK-1-004",
+      "test": "TEST-004",
+      "evidence": "EVD-004"
+    },
+    {
+      "source": "SRC-OWN-005",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-005",
+      "metric": "M05",
+      "gap": "GAP-005",
+      "best_practice": "BP-005",
+      "improvement": "IMP-0005",
+      "requirement": "REQ-005",
+      "task": "TASK-2-005",
+      "test": "TEST-005",
+      "evidence": "EVD-005"
+    },
+    {
+      "source": "SRC-OWN-006",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-006",
+      "metric": "M06",
+      "gap": "GAP-006",
+      "best_practice": "BP-006",
+      "improvement": "IMP-0006",
+      "requirement": "REQ-006",
+      "task": "TASK-2-006",
+      "test": "TEST-006",
+      "evidence": "EVD-006"
+    },
+    {
+      "source": "SRC-OWN-007",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-007",
+      "metric": "M07",
+      "gap": "GAP-007",
+      "best_practice": "BP-007",
+      "improvement": "IMP-0007",
+      "requirement": "REQ-007",
+      "task": "TASK-2-007",
+      "test": "TEST-007",
+      "evidence": "EVD-007"
+    },
+    {
+      "source": "SRC-OWN-001",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-008",
+      "metric": "M08",
+      "gap": "GAP-008",
+      "best_practice": "BP-008",
+      "improvement": "IMP-0008",
+      "requirement": "REQ-008",
+      "task": "TASK-2-008",
+      "test": "TEST-008",
+      "evidence": "EVD-001"
+    },
+    {
+      "source": "SRC-OWN-002",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-009",
+      "metric": "M09",
+      "gap": "GAP-009",
+      "best_practice": "BP-009",
+      "improvement": "IMP-0009",
+      "requirement": "REQ-009",
+      "task": "TASK-3-009",
+      "test": "TEST-009",
+      "evidence": "EVD-002"
+    },
+    {
+      "source": "SRC-OWN-003",
+      "service": "SVC-AYS-001",
+      "field": "FIELD-010",
+      "metric": "M10",
+      "gap": "GAP-010",
+      "best_practice": "BP-010",
+      "improvement": "IMP-0010",
+      "requirement": "REQ-010",
+      "task": "TASK-3-010",
+      "test": "TEST-010",
+      "evidence": "EVD-003"
+    }
+  ],
+  "counts": {
+    "chains": 10
+  },
+  "unknowns": [],
+  "warnings": [
+    "전체 25개 요구사항의 외부 증거 연결은 미완료"
+  ]
+}

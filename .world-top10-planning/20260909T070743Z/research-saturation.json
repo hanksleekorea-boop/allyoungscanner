@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "research-saturation",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "axis": "candidate_pool",
+      "target": 800,
+      "actual": 12,
+      "multiplier": 0.015,
+      "state": "PARTIAL"
+    },
+    {
+      "axis": "category_candidates",
+      "target": "10 per selected category",
+      "actual": "4/2/3/2/1",
+      "state": "PARTIAL"
+    },
+    {
+      "axis": "independent_search_expansions",
+      "target": 20,
+      "actual": 5,
+      "multiplier": 0.25,
+      "state": "PARTIAL"
+    },
+    {
+      "axis": "new_major_categories_last_three_passes",
+      "target": 0,
+      "actual": null,
+      "state": "UNVERIFIED"
+    }
+  ],
+  "counts": {
+    "records": 4
+  },
+  "unknowns": [],
+  "warnings": [
+    "범위가 넓은 500개 카탈로그 전체를 조사하지 않음"
+  ]
+}

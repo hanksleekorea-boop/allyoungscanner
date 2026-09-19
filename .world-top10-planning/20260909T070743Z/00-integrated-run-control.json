@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "integrated-run-control",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "run_id": "ITEL-V32-20260909T070743Z",
+      "mode": "END_TO_END",
+      "active_engines": [
+        "A",
+        "B",
+        "C"
+      ],
+      "inactive_actions": [
+        "코드 수정",
+        "설정 변경",
+        "Git 저장",
+        "배포",
+        "계정·결제"
+      ],
+      "target_project": "D:/Desktop/챗지피티프로젝트들/올영스캐너",
+      "target_urls": [
+        "https://allyoungscanner.scanners.cc/",
+        "https://allyoungscanner.scanners.cc/m/",
+        "https://allyoungscanner.scanners.cc/dashboard.html"
+      ],
+      "statuses": {
+        "G0": "PASS",
+        "G1": "PASS",
+        "G2": "PARTIAL",
+        "G3": "TOP10_INCOMPLETE",
+        "G4": "PARTIAL",
+        "G5": "PASS_WITH_LIMITS",
+        "G6": "PASS_WITH_LIMITS",
+        "G7": "PASS_WITH_LIMITS",
+        "G8": "PASS",
+        "overall": "PARTIAL_EXTERNAL_BLOCK"
+      },
+      "user_questions": [],
+      "reused_artifacts": [
+        ".world-class-analysis/20260824T090245Z",
+        "docs/PROJECT_HISTORY.md",
+        "docs/CURRENT_READINESS_CONTRACT_v1.md"
+      ],
+      "unknowns": [
+        "WeSaver Client ID/Secret/OAUTH_STATE_SECRET",
+        "실제 OAuth callback·save/load/delete",
+        "실제 Android/iOS 설치·오프라인",
+        "상품 권리·승인 판매처·광고 승인",
+        "운영자 법적 신원·실사용자 성과"
+      ],
+      "next_resume": "WeSaver OAuth 권한/비밀값·Android 1대·공급자 권리 입력"
+    }
+  ],
+  "counts": {
+    "runs": 1
+  },
+  "unknowns": [],
+  "warnings": [
+    "분석 전용 실행 장부"
+  ]
+}

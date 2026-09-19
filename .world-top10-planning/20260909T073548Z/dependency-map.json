@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V33-20260909T074132Z",
+  "generated_at_utc": "2026-09-09T07:41:32.928Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "dependency-map",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "id": "DEP-001",
+      "from": "WeSaver OAuth access",
+      "to": [
+        "REQ-006",
+        "TASK-1-006",
+        "TEST-006"
+      ],
+      "state": "BLOCKED_EXTERNAL"
+    },
+    {
+      "id": "DEP-002",
+      "from": "approved product/store feed",
+      "to": [
+        "REQ-001",
+        "REQ-004",
+        "TASK-1-001",
+        "TASK-2-004"
+      ],
+      "state": "BLOCKED_EXTERNAL"
+    },
+    {
+      "id": "DEP-003",
+      "from": "one idle Android device",
+      "to": [
+        "REQ-003",
+        "TASK-1-008",
+        "TEST-008"
+      ],
+      "state": "NOT_AVAILABLE"
+    },
+    {
+      "id": "DEP-004",
+      "from": "R2 release checksum",
+      "to": [
+        "REQ-015",
+        "TASK-3-001",
+        "TEST-015"
+      ],
+      "state": "READY"
+    }
+  ],
+  "counts": {
+    "records": 4
+  },
+  "unknowns": [],
+  "warnings": []
+}

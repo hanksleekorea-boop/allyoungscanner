@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "candidate-register",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "id": "CAND-001",
+      "name": "Google Shopping",
+      "url": "https://support.google.com/googleshopping/answer/9128904?hl=en-419",
+      "cats": [
+        298,
+        495
+      ],
+      "similarity": 92,
+      "quality": 91,
+      "source": "SRC-GGL-001",
+      "note": "여러 판매자의 상품·가격을 검색하고 판매처로 이동; 광범위한 쇼핑 비교"
+    },
+    {
+      "id": "CAND-002",
+      "name": "idealo",
+      "url": "https://www.idealo.es/",
+      "cats": [
+        298,
+        496
+      ],
+      "similarity": 88,
+      "quality": 90,
+      "source": "SRC-IDE-001",
+      "note": "다수 매장·상품·가격·가격 이력·알림·바코드 기능을 공식 설명"
+    },
+    {
+      "id": "CAND-003",
+      "name": "PriceSpy",
+      "url": "https://pricespy.co.uk/theme/get-started-with-pricespys-features",
+      "cats": [
+        298,
+        496
+      ],
+      "similarity": 86,
+      "quality": 86,
+      "source": "SRC-PSY-001",
+      "note": "가격 비교·가격 이력·목록·리뷰·검색·모바일 앱"
+    },
+    {
+      "id": "CAND-004",
+      "name": "Klarna Shopping",
+      "url": "https://www.klarna.com/us/shopping/sp/store/",
+      "cats": [
+        298,
+        496
+      ],
+      "similarity": 84,
+      "quality": 87,
+      "source": "SRC-KLA-001",
+      "note": "스토어 상품 탐색·가격 비교·거래 연결"
+    },
+    {
+      "id": "CAND-005",
+      "name": "Sephora",
+      "url": "https://www.sephora.com/",
+      "cats": [
+        296,
+        361
+      ],
+      "similarity": 74,
+      "quality": 88,
+      "source": "SRC-SEP-001",
+      "note": "뷰티 카탈로그·상품 상세·판매 흐름; 단일 리테일러"
+    },
+    {
+      "id": "CAND-006",
+      "name": "Ulta Beauty",
+      "url": "https://www.ulta.com/",
+      "cats": [
+        296,
+        361
+      ],
+      "similarity": 72,
+      "quality": 86,
+      "source": "SRC-ULT-001",
+      "note": "뷰티 상품 탐색·매장/온라인 구매; 단일 리테일러"
+    },
+    {
+      "id": "CAND-007",
+      "name": "Yuka",
+      "url": "https://yuka.io/en/",
+      "cats": [
+        487,
+        198
+      ],
+      "similarity": 78,
+      "quality": 85,
+      "source": "SRC-YUK-001",
+      "note": "화장품·식품 바코드 스캔·성분 해석·대안 추천"
+    },
+    {
+      "id": "CAND-008",
+      "name": "OnSkin",
+      "url": "https://onskin.com/",
+      "cats": [
+        487,
+        198
+      ],
+      "similarity": 82,
+      "quality": 86,
+      "source": "SRC-OSK-001",
+      "note": "사진·바코드·이름 검색, 피부 설문, 안전 점수·대안"
+    },
+    {
+      "id": "CAND-009",
+      "name": "SkinSort",
+      "url": "https://skinsort.com/",
+      "cats": [
+        198,
+        476
+      ],
+      "similarity": 80,
+      "quality": 84,
+      "source": "SRC-SKS-001",
+      "note": "제품·성분·루틴·비교·dupe·shelves·개인화"
+    },
+    {
+      "id": "CAND-010",
+      "name": "SkinSAFE",
+      "url": "https://help.skinsafeproducts.com/",
+      "cats": [
+        198,
+        316
+      ],
+      "similarity": 69,
+      "quality": 81,
+      "source": "SRC-SAF-001",
+      "note": "알레르겐·안전 제품 검색과 계정 지원"
+    },
+    {
+      "id": "CAND-011",
+      "name": "INCIDecoder",
+      "url": "https://sb.incidecoder.com/",
+      "cats": [
+        198,
+        264
+      ],
+      "similarity": 67,
+      "quality": 79,
+      "source": "SRC-INC-001",
+      "note": "성분 사전·기능·자극/코메도제닉 지수 설명"
+    },
+    {
+      "id": "CAND-012",
+      "name": "ShopStyle",
+      "url": "https://www.shopstyle.com/legal/terms.html",
+      "cats": [
+        298
+      ],
+      "similarity": 87,
+      "quality": 0,
+      "source": "SRC-SHP-001",
+      "note": "소비자 쇼핑 서비스가 2026-07-30 종료되어 후보에서 제외"
+    }
+  ],
+  "counts": {
+    "discovered": 12,
+    "live_evidenced": 11,
+    "excluded": 1
+  },
+  "unknowns": [
+    "800개 후보 완전 탐색은 범위·시간상 미달"
+  ],
+  "warnings": []
+}

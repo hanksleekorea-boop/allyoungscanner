@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V33-20260909T074132Z",
+  "generated_at_utc": "2026-09-09T07:41:32.928Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "benchmark-taxonomy",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "metric_id": "M01",
+      "label": "가치 제안 명확성",
+      "family": "product_ux",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M02",
+      "label": "첫 가치까지 단계",
+      "family": "product_ux",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M03",
+      "label": "검색·입력 오류 복구",
+      "family": "product_ux",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M04",
+      "label": "결과 이해 가능성",
+      "family": "product_ux",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M05",
+      "label": "개인화 수준",
+      "family": "product_ux",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M06",
+      "label": "비교·결정 지원",
+      "family": "product_ux",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M07",
+      "label": "일관성",
+      "family": "product_ux",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M08",
+      "label": "차별성",
+      "family": "product_ux",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M09",
+      "label": "모바일 앱 제공",
+      "family": "mobile_app",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M10",
+      "label": "설치·온보딩",
+      "family": "mobile_app",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M11",
+      "label": "기기 간 연속성",
+      "family": "mobile_app",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M12",
+      "label": "모바일 업데이트/지원",
+      "family": "mobile_app",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M13",
+      "label": "정보 구조",
+      "family": "web_accessibility",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M14",
+      "label": "반응형·성능",
+      "family": "web_accessibility",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M15",
+      "label": "검색·공유",
+      "family": "web_accessibility",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M16",
+      "label": "키보드·스크린리더",
+      "family": "web_accessibility",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M17",
+      "label": "확대·색 대비",
+      "family": "web_accessibility",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M18",
+      "label": "다국어",
+      "family": "web_accessibility",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M19",
+      "label": "가격 표시 투명성",
+      "family": "price_trust",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M20",
+      "label": "총액·배송",
+      "family": "price_trust",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M21",
+      "label": "가격 이력·알림",
+      "family": "price_trust",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M22",
+      "label": "취소·환불",
+      "family": "price_trust",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M23",
+      "label": "법인·약관",
+      "family": "privacy_legal",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M24",
+      "label": "수집·처리자",
+      "family": "privacy_legal",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M25",
+      "label": "계정 삭제",
+      "family": "privacy_legal",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M26",
+      "label": "쿠키·지역법",
+      "family": "privacy_legal",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M27",
+      "label": "HTTPS·헤더",
+      "family": "security_domain",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M28",
+      "label": "보안 신고",
+      "family": "security_domain",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M29",
+      "label": "DNS·이메일",
+      "family": "security_domain",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M30",
+      "label": "사고 투명성",
+      "family": "security_domain",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M31",
+      "label": "지원 경로",
+      "family": "support_reputation",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    },
+    {
+      "metric_id": "M32",
+      "label": "평판·운영 공지",
+      "family": "support_reputation",
+      "unit": "0-100 analyst score",
+      "unknown_handling": "leave unverified"
+    }
+  ],
+  "counts": {
+    "metrics": 32,
+    "families": 7
+  },
+  "unknowns": [],
+  "warnings": []
+}

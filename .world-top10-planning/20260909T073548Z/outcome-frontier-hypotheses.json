@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V33-20260909T074132Z",
+  "generated_at_utc": "2026-09-09T07:41:32.928Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "outcome-frontier-hypotheses",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "id": "H-001",
+      "hypothesis": "정확 SKU·확인일·배송 조건을 한 카드에 묶으면 판매처 도착률이 상승한다",
+      "measure": "click→target SKU landing",
+      "falsifier": "4주 표본에서 개선 없음"
+    },
+    {
+      "id": "H-002",
+      "hypothesis": "로그인 전 핵심과 선택적 Google snapshot 조합이 가입 장벽을 낮추고 재방문을 높인다",
+      "measure": "guest completion vs signed-in return"
+    },
+    {
+      "id": "H-003",
+      "hypothesis": "Evidence lens가 제휴·광고 신뢰 하락 없이 클릭률을 유지한다",
+      "measure": "disclosure comprehension + outbound CTR"
+    }
+  ],
+  "counts": {
+    "records": 3
+  },
+  "unknowns": [],
+  "warnings": []
+}

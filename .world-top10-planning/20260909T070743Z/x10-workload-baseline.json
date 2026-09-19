@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "x10-workload-baseline",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "dimension": "world_candidates",
+      "prior_baseline": 80,
+      "minimum_target": 800
+    },
+    {
+      "dimension": "common_atomic_metrics",
+      "prior_baseline": 160,
+      "minimum_target": 1600
+    },
+    {
+      "dimension": "core_task_variants",
+      "prior_baseline": 15,
+      "minimum_target": 150
+    },
+    {
+      "dimension": "product_decision_cells",
+      "prior_baseline": 40,
+      "minimum_target": 400
+    },
+    {
+      "dimension": "task_card_fields",
+      "prior_baseline": 32,
+      "minimum_target": 64
+    },
+    {
+      "dimension": "boundary_cases",
+      "prior_baseline": 1000,
+      "minimum_target": 10000
+    },
+    {
+      "dimension": "bad_samples",
+      "prior_baseline": 10,
+      "minimum_target": 100
+    },
+    {
+      "dimension": "search_saturation_passes",
+      "prior_baseline": 2,
+      "minimum_target": 20
+    }
+  ],
+  "counts": {
+    "dimensions": 8
+  },
+  "unknowns": [],
+  "warnings": [
+    "실제 달성치는 x10-workload-ledger.json에서 별도 기록"
+  ]
+}

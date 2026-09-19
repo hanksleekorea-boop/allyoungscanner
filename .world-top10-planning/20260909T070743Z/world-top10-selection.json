@@ -1,0 +1,128 @@
+{
+  "schema_version": "1.0",
+  "run_id": "ITEL-V32-20260909T070743Z",
+  "generated_at_utc": "2026-09-09T07:16:53.430Z",
+  "project_fingerprint": "all-young-scanner-v0.40-shopping-trust",
+  "artifact_type": "world-top10-selection",
+  "source_artifact_ids": [],
+  "records": [
+    {
+      "rank": 1,
+      "service": "Google Shopping",
+      "similarity": 92,
+      "quality": 91,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-GGL-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 2,
+      "service": "idealo",
+      "similarity": 88,
+      "quality": 90,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-IDE-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 3,
+      "service": "PriceSpy",
+      "similarity": 86,
+      "quality": 86,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-PSY-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 4,
+      "service": "Klarna Shopping",
+      "similarity": 84,
+      "quality": 87,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-KLA-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 5,
+      "service": "Sephora",
+      "similarity": 74,
+      "quality": 88,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-SEP-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 6,
+      "service": "Ulta Beauty",
+      "similarity": 72,
+      "quality": 86,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-ULT-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 7,
+      "service": "Yuka",
+      "similarity": 78,
+      "quality": 85,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-YUK-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 8,
+      "service": "OnSkin",
+      "similarity": 82,
+      "quality": 86,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-OSK-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 9,
+      "service": "SkinSort",
+      "similarity": 80,
+      "quality": 84,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-SKS-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    },
+    {
+      "rank": 10,
+      "service": "SkinSAFE",
+      "similarity": 69,
+      "quality": 81,
+      "eligibility": "PASS_WITH_BOUNDED_EVIDENCE",
+      "source_ids": [
+        "SRC-SAF-001"
+      ],
+      "caveat": "800 후보 전수 미실시"
+    }
+  ],
+  "counts": {
+    "selected": 10,
+    "candidate_pool": 12
+  },
+  "unknowns": [],
+  "warnings": [
+    "세계 전체 순위가 아니라 이번 공개 범위의 잠정 비교군"
+  ]
+}
